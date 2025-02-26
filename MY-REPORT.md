@@ -2,14 +2,14 @@
 
 # Automating Requirement Analysis for an AI-Driven Numpy Chatbot: Enhancing Student Learning in Computational Mathematic
 
-1-liner description of your project
-
-<!-- WHEN APPLICABLE, REMOVE THE COMMENT MARK AND COMPLETE
-This is a response to the Assignment part of the COURSE.
--->
 
 * Authors: [Louay Abo Alzahab](mailto:laboalzahab2021@fau.edu), [Cihan Ulus](mailto:culus2021@fau.edu)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
+
+1-liner description of your project
+- We worked on experementing zero-shot and how to enhance the prompt using different approaches.
+- Worked on Chaing of Thoughts prompting
+- Added recursive meta prompting
 
   
 # Research Question 
